@@ -1,0 +1,11 @@
+.about{
+    align-items: center;
+    padding: 20px;
+}
+.about p{
+    margin: 30px;
+    justify-content: center;
+    line-height: 2;
+    text-align: justify;
+    font-size: large;
+}

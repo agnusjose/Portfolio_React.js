@@ -1,0 +1,12 @@
+.contact{
+    margin: 20px;
+}
+.contact ul{
+    display: flex;
+    gap :40px;
+    list-style: none;
+}
+.contact ul li a{
+    text-decoration: none;
+    color:rgb(215, 214, 214);
+}

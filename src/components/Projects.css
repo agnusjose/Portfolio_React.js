@@ -1,0 +1,22 @@
+.projects{
+    margin: 20px;
+}
+.projects dl{
+    font-size: large;    
+}
+.projects dl dd{
+    line-height: 2;
+    text-align: justify;
+    margin: 30px;
+    margin-top: 10px;
+}
+.projects ul li{
+    line-height: 1;
+    text-align: justify;
+    margin: 30px;
+    margin-top: 10px;
+}
+.projects a{
+    text-decoration: none;
+    color: rgb(215, 214, 214);
+}

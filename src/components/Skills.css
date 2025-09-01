@@ -1,0 +1,11 @@
+.skills{
+    margin: 20px;
+}
+.skills ul{
+    font-size: large;
+    line-height: 2;
+}
+.skills p{
+    font-size: large;
+    font-weight: 600;
+}
