@@ -1,5 +1,4 @@
 import "./Home.css"
-import profilePic from "../assets/agnus2.jpg"; 
 function Home() {
   return (
     <div className="home">
