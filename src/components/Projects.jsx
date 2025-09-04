@@ -16,7 +16,7 @@ function Projects() {
         <dt><strong>Personal Portfolios </strong></dt>
         <dd><ul>
           <li> A responsive portfolio using HTML , CSS and JavaScript - <a href="https://agnusjose.github.io/AgnusJose_Portfolio/" target="blank">click here to view code on Github</a></li>
-          <li> A responsive portfolio using React - <a href="https://agnusjose.github.io/AgnusJose_Portfolio/" target="blank">click here to view code on Github</a></li>
+          <li> A responsive portfolio using React - <a href="https://agnusjose.github.io/Portfolio_React.js/" target="blank">click here to view code on Github</a></li>
         </ul>
         </dd>
       </dl>
